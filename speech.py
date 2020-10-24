@@ -7,4 +7,4 @@ def say(text):
     engine.runAndWait()
 
 if __name__ == "__main__":
-    say("Wie geht es dir, Dawid?")
+    pass
